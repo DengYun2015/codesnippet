@@ -1,0 +1,1250 @@
+{
+  "A": [
+    {
+      "name": "阿尔巴尼亚",
+      "pinyin": "aerbaniya",
+      "code": "ALB"
+    },
+    {
+      "name": "阿尔及利亚",
+      "pinyin": "aerjiliya",
+      "code": "DZA"
+    },
+    {
+      "name": "阿富汗",
+      "pinyin": "afuhan",
+      "code": "AFG"
+    },
+    {
+      "name": "阿根廷",
+      "pinyin": "agenting",
+      "code": "ARG"
+    },
+    {
+      "name": "阿拉伯联合酋长国",
+      "pinyin": "alabolianheqiuzhangguo",
+      "code": "ARE"
+    },
+    {
+      "name": "阿鲁巴",
+      "pinyin": "aluba",
+      "code": "ABW"
+    },
+    {
+      "name": "阿曼",
+      "pinyin": "aman",
+      "code": "OMN"
+    },
+    {
+      "name": "阿塞拜疆",
+      "pinyin": "asaibaijiang",
+      "code": "AZE"
+    },
+    {
+      "name": "阿森松岛",
+      "pinyin": "asensongdao",
+      "code": "ASC"
+    },
+    {
+      "name": "埃及",
+      "pinyin": "aiji",
+      "code": "EGY"
+    },
+    {
+      "name": "埃塞俄比亚",
+      "pinyin": "aisaiebiya",
+      "code": "ETH"
+    },
+    {
+      "name": "爱尔兰",
+      "pinyin": "aierlan",
+      "code": "IRL"
+    },
+    {
+      "name": "爱沙尼亚",
+      "pinyin": "aishaniya",
+      "code": "EST"
+    },
+    {
+      "name": "安道尔",
+      "pinyin": "andaoer",
+      "code": "AND"
+    },
+    {
+      "name": "安哥拉",
+      "pinyin": "angela",
+      "code": "AGO"
+    },
+    {
+      "name": "安圭拉",
+      "pinyin": "anguila",
+      "code": "AIA"
+    },
+    {
+      "name": "安提瓜岛和巴布达",
+      "pinyin": "antiguadaohebabuda",
+      "code": "ATG"
+    },
+    {
+      "name": "奥地利",
+      "pinyin": "aodili",
+      "code": "AUT"
+    },
+    {
+      "name": "奥兰群岛",
+      "pinyin": "aolanqundao",
+      "code": "ALA"
+    },
+    {
+      "name": "澳大利亚",
+      "pinyin": "aodaliya",
+      "code": "AUS"
+    }
+  ],
+  "B": [
+    {
+      "name": "巴巴多斯岛",
+      "pinyin": "babaduosidao",
+      "code": "BRB"
+    },
+    {
+      "name": "巴布亚新几内亚",
+      "pinyin": "babuyaxinjineiya",
+      "code": "PNG"
+    },
+    {
+      "name": "巴哈马",
+      "pinyin": "bahama",
+      "code": "BHS"
+    },
+    {
+      "name": "巴基斯坦",
+      "pinyin": "bajisitan",
+      "code": "PAK"
+    },
+    {
+      "name": "巴拉圭",
+      "pinyin": "balagui",
+      "code": "PRY"
+    },
+    {
+      "name": "巴勒斯坦",
+      "pinyin": "balesitan",
+      "code": "PSE"
+    },
+    {
+      "name": "巴林",
+      "pinyin": "balin",
+      "code": "BHR"
+    },
+    {
+      "name": "巴拿马",
+      "pinyin": "banama",
+      "code": "PAN"
+    },
+    {
+      "name": "巴西",
+      "pinyin": "baxi",
+      "code": "BRA"
+    },
+    {
+      "name": "白俄罗斯",
+      "pinyin": "baieluosi",
+      "code": "BLR"
+    },
+    {
+      "name": "百慕大",
+      "pinyin": "baimuda",
+      "code": "BMU"
+    },
+    {
+      "name": "保加利亚",
+      "pinyin": "baojialiya",
+      "code": "BGR"
+    },
+    {
+      "name": "北马里亚纳群岛",
+      "pinyin": "beimaliyanaqundao",
+      "code": "MNP"
+    },
+    {
+      "name": "贝宁",
+      "pinyin": "beining",
+      "code": "BEN"
+    },
+    {
+      "name": "比利时",
+      "pinyin": "bilishi",
+      "code": "BEL"
+    },
+    {
+      "name": "冰岛",
+      "pinyin": "bingdao",
+      "code": "ISL"
+    },
+    {
+      "name": "波多黎各",
+      "pinyin": "boduolige",
+      "code": "PRI"
+    },
+    {
+      "name": "波兰",
+      "pinyin": "bolan",
+      "code": "POL"
+    },
+    {
+      "name": "波斯尼亚和黑塞哥维那",
+      "pinyin": "bosiniyaheheisaigeweina",
+      "code": "BIH"
+    },
+    {
+      "name": "玻利维亚",
+      "pinyin": "boliweiya",
+      "code": "BOL"
+    },
+    {
+      "name": "伯利兹",
+      "pinyin": "bolizi",
+      "code": "BLZ"
+    },
+    {
+      "name": "博茨瓦纳",
+      "pinyin": "bociwana",
+      "code": "BWA"
+    },
+    {
+      "name": "不丹",
+      "pinyin": "budan",
+      "code": "BTN"
+    },
+    {
+      "name": "布基纳法索",
+      "pinyin": "bujinafasuo",
+      "code": "BFA"
+    },
+    {
+      "name": "布隆迪",
+      "pinyin": "bulongdi",
+      "code": "BDI"
+    },
+    {
+      "name": "布韦岛",
+      "pinyin": "buweidao",
+      "code": "BVT"
+    },
+    {
+      "name": "秘鲁",
+      "pinyin": "bilu",
+      "code": "PER"
+    }
+  ],
+  "CH": [
+    {
+      "name": "朝鲜",
+      "pinyin": "chaoxian",
+      "code": "PRK"
+    }
+  ],
+  "D": [
+    {
+      "name": "丹麦",
+      "pinyin": "danmai",
+      "code": "DNK"
+    },
+    {
+      "name": "德国",
+      "pinyin": "deguo",
+      "code": "DEU"
+    },
+    {
+      "name": "东帝汶",
+      "pinyin": "dongdiwen",
+      "code": "TLS"
+    },
+    {
+      "name": "多哥",
+      "pinyin": "duoge",
+      "code": "TGO"
+    },
+    {
+      "name": "多米尼加",
+      "pinyin": "duominijia",
+      "code": "DMA"
+    },
+    {
+      "name": "多米尼加共和国",
+      "pinyin": "duominijiagongheguo",
+      "code": "DOM"
+    }
+  ],
+  "E": [
+    {
+      "name": "俄罗斯",
+      "pinyin": "eluosi",
+      "code": "RUS"
+    },
+    {
+      "name": "厄瓜多尔",
+      "pinyin": "eguaduoer",
+      "code": "ECU"
+    },
+    {
+      "name": "厄立特里亚",
+      "pinyin": "eliteliya",
+      "code": "ERI"
+    }
+  ],
+  "F": [
+    {
+      "name": "法国",
+      "pinyin": "faguo",
+      "code": "FRA"
+    },
+    {
+      "name": "法罗群岛",
+      "pinyin": "faluoqundao",
+      "code": "FRO"
+    },
+    {
+      "name": "法属波利尼西亚",
+      "pinyin": "fashubolinixiya",
+      "code": "PYF"
+    },
+    {
+      "name": "法属圭亚那",
+      "pinyin": "fashuguiyana",
+      "code": "GUF"
+    },
+    {
+      "name": "法属南部领地",
+      "pinyin": "fashunanbulingdi",
+      "code": "ATF"
+    },
+    {
+      "name": "梵蒂冈",
+      "pinyin": "fandigang",
+      "code": "VAT"
+    },
+    {
+      "name": "菲律宾",
+      "pinyin": "feilvbin",
+      "code": "PHL"
+    },
+    {
+      "name": "斐济",
+      "pinyin": "feiji",
+      "code": "FJI"
+    },
+    {
+      "name": "芬兰",
+      "pinyin": "fenlan",
+      "code": "FIN"
+    },
+    {
+      "name": "佛得角",
+      "pinyin": "fodejiao",
+      "code": "CPV"
+    },
+    {
+      "name": "弗兰克群岛",
+      "pinyin": "fulankequndao",
+      "code": "FLK"
+    }
+  ],
+  "G": [
+    {
+      "name": "冈比亚",
+      "pinyin": "gangbiya",
+      "code": "GMB"
+    },
+    {
+      "name": "刚果",
+      "pinyin": "gangguo",
+      "code": "COG"
+    },
+    {
+      "name": "刚果民主共和国",
+      "pinyin": "gangguominzhugongheguo",
+      "code": "COD"
+    },
+    {
+      "name": "哥伦比亚",
+      "pinyin": "gelunbiya",
+      "code": "COL"
+    },
+    {
+      "name": "哥斯达黎加",
+      "pinyin": "gesidalijia",
+      "code": "CRI"
+    },
+    {
+      "name": "格恩西岛",
+      "pinyin": "geenxidao",
+      "code": "GGY"
+    },
+    {
+      "name": "格林纳达",
+      "pinyin": "gelinnada",
+      "code": "GRD"
+    },
+    {
+      "name": "格陵兰",
+      "pinyin": "gelinglan",
+      "code": "GRL"
+    },
+    {
+      "name": "古巴",
+      "pinyin": "guba",
+      "code": "CUB"
+    },
+    {
+      "name": "瓜德罗普",
+      "pinyin": "guadeluopu",
+      "code": "GLP"
+    },
+    {
+      "name": "关岛",
+      "pinyin": "guandao",
+      "code": "GUM"
+    },
+    {
+      "name": "圭亚那",
+      "pinyin": "guiyana",
+      "code": "GUY"
+    }
+  ],
+  "H": [
+    {
+      "name": "哈萨克斯坦",
+      "pinyin": "hasakesitan",
+      "code": "KAZ"
+    },
+    {
+      "name": "海地",
+      "pinyin": "haidi",
+      "code": "HTI"
+    },
+    {
+      "name": "韩国",
+      "pinyin": "hanguo",
+      "code": "KOR"
+    },
+    {
+      "name": "荷兰",
+      "pinyin": "helan",
+      "code": "NLD"
+    },
+    {
+      "name": "荷属安地列斯",
+      "pinyin": "heshuandiliesi",
+      "code": "ANT"
+    },
+    {
+      "name": "赫德和麦克唐纳群岛",
+      "pinyin": "hedehemaiketangnaqundao",
+      "code": "HMD"
+    },
+    {
+      "name": "洪都拉斯",
+      "pinyin": "hongdulasi",
+      "code": "HND"
+    }
+  ],
+  "J": [
+    {
+      "name": "基里巴斯",
+      "pinyin": "jilibasi",
+      "code": "KIR"
+    },
+    {
+      "name": "吉布提",
+      "pinyin": "jibuti",
+      "code": "DJI"
+    },
+    {
+      "name": "吉尔吉斯斯坦",
+      "pinyin": "jierjisisitan",
+      "code": "KGZ"
+    },
+    {
+      "name": "几内亚",
+      "pinyin": "jineiya",
+      "code": "GIN"
+    },
+    {
+      "name": "几内亚比绍",
+      "pinyin": "jineiyabishao",
+      "code": "GNB"
+    },
+    {
+      "name": "加拿大",
+      "pinyin": "jianada",
+      "code": "CAN"
+    },
+    {
+      "name": "加纳",
+      "pinyin": "jiana",
+      "code": "GHA"
+    },
+    {
+      "name": "加蓬",
+      "pinyin": "jiapeng",
+      "code": "GAB"
+    },
+    {
+      "name": "柬埔寨",
+      "pinyin": "jianpuzhai",
+      "code": "KHM"
+    },
+    {
+      "name": "捷克共和国",
+      "pinyin": "jiekegongheguo",
+      "code": "CZE"
+    },
+    {
+      "name": "津巴布韦",
+      "pinyin": "jinbabuwei",
+      "code": "ZWE"
+    }
+  ],
+  "K": [
+    {
+      "name": "喀麦隆",
+      "pinyin": "kamailong",
+      "code": "CMR"
+    },
+    {
+      "name": "卡塔尔",
+      "pinyin": "kataer",
+      "code": "QAT"
+    },
+    {
+      "name": "开曼群岛",
+      "pinyin": "kaimanqundao",
+      "code": "CYM"
+    },
+    {
+      "name": "科科斯群岛",
+      "pinyin": "kekesiqundao",
+      "code": "CCK"
+    },
+    {
+      "name": "科摩罗",
+      "pinyin": "kemoluo",
+      "code": "COM"
+    },
+    {
+      "name": "科特迪瓦",
+      "pinyin": "ketediwa",
+      "code": "CIV"
+    },
+    {
+      "name": "科威特",
+      "pinyin": "keweite",
+      "code": "KWT"
+    },
+    {
+      "name": "克罗地亚",
+      "pinyin": "keluodiya",
+      "code": "HRV"
+    },
+    {
+      "name": "肯尼亚",
+      "pinyin": "kenniya",
+      "code": "KEN"
+    },
+    {
+      "name": "库克群岛",
+      "pinyin": "kukequndao",
+      "code": "COK"
+    }
+  ],
+  "L": [
+    {
+      "name": "拉脱维亚",
+      "pinyin": "latuoweiya",
+      "code": "LVA"
+    },
+    {
+      "name": "莱索托",
+      "pinyin": "laisuotuo",
+      "code": "LSO"
+    },
+    {
+      "name": "老挝",
+      "pinyin": "laowo",
+      "code": "LAO"
+    },
+    {
+      "name": "黎巴嫩",
+      "pinyin": "libanen",
+      "code": "LBN"
+    },
+    {
+      "name": "立陶宛",
+      "pinyin": "litaowan",
+      "code": "LTU"
+    },
+    {
+      "name": "利比里亚",
+      "pinyin": "libiliya",
+      "code": "LBR"
+    },
+    {
+      "name": "利比亚",
+      "pinyin": "libiya",
+      "code": "LBY"
+    },
+    {
+      "name": "列支敦士登",
+      "pinyin": "liezhidunshideng",
+      "code": "LIE"
+    },
+    {
+      "name": "留尼旺岛",
+      "pinyin": "liuniwangdao",
+      "code": "REU"
+    },
+    {
+      "name": "卢森堡",
+      "pinyin": "lusenbao",
+      "code": "LUX"
+    },
+    {
+      "name": "卢旺达",
+      "pinyin": "luwangda",
+      "code": "RWA"
+    },
+    {
+      "name": "罗马尼亚",
+      "pinyin": "luomaniya",
+      "code": "ROU"
+    }
+  ],
+  "M": [
+    {
+      "name": "马达加斯加",
+      "pinyin": "madajiasijia",
+      "code": "MDG"
+    },
+    {
+      "name": "马尔代夫",
+      "pinyin": "maerdaifu",
+      "code": "MDV"
+    },
+    {
+      "name": "马耳他",
+      "pinyin": "maerta",
+      "code": "MLT"
+    },
+    {
+      "name": "马拉维",
+      "pinyin": "malawei",
+      "code": "MWI"
+    },
+    {
+      "name": "马来西亚",
+      "pinyin": "malaixiya",
+      "code": "MYS"
+    },
+    {
+      "name": "马里",
+      "pinyin": "mali",
+      "code": "MLI"
+    },
+    {
+      "name": "马其顿",
+      "pinyin": "maqidun",
+      "code": "MKD"
+    },
+    {
+      "name": "马绍尔群岛",
+      "pinyin": "mashaoerqundao",
+      "code": "MHL"
+    },
+    {
+      "name": "马提尼克",
+      "pinyin": "matinike",
+      "code": "MTQ"
+    },
+    {
+      "name": "马约特岛",
+      "pinyin": "mayuetedao",
+      "code": "MYT"
+    },
+    {
+      "name": "曼岛",
+      "pinyin": "mandao",
+      "code": "IMN"
+    },
+    {
+      "name": "毛里求斯",
+      "pinyin": "maoliqiusi",
+      "code": "MUS"
+    },
+    {
+      "name": "毛里塔尼亚",
+      "pinyin": "maolitaniya",
+      "code": "MRT"
+    },
+    {
+      "name": "美国",
+      "pinyin": "meiguo",
+      "code": "USA"
+    },
+    {
+      "name": "美属萨摩亚",
+      "pinyin": "meishusamoya",
+      "code": "ASM"
+    },
+    {
+      "name": "美属外岛",
+      "pinyin": "meishuwaidao",
+      "code": "UMI"
+    },
+    {
+      "name": "蒙古",
+      "pinyin": "menggu",
+      "code": "MNG"
+    },
+    {
+      "name": "蒙特塞拉特",
+      "pinyin": "mengtesailate",
+      "code": "MSR"
+    },
+    {
+      "name": "孟加拉",
+      "pinyin": "mengjiala",
+      "code": "BGD"
+    },
+    {
+      "name": "密克罗尼西亚",
+      "pinyin": "mikeluonixiya",
+      "code": "FSM"
+    },
+    {
+      "name": "缅甸",
+      "pinyin": "miandian",
+      "code": "MMR"
+    },
+    {
+      "name": "摩尔多瓦",
+      "pinyin": "moerduowa",
+      "code": "MDA"
+    },
+    {
+      "name": "摩洛哥",
+      "pinyin": "moluoge",
+      "code": "MAR"
+    },
+    {
+      "name": "摩纳哥",
+      "pinyin": "monage",
+      "code": "MCO"
+    },
+    {
+      "name": "莫桑比克",
+      "pinyin": "mosangbike",
+      "code": "MOZ"
+    },
+    {
+      "name": "墨西哥",
+      "pinyin": "moxige",
+      "code": "MEX"
+    }
+  ],
+  "N": [
+    {
+      "name": "纳米比亚",
+      "pinyin": "namibiya",
+      "code": "NAM"
+    },
+    {
+      "name": "南非",
+      "pinyin": "nanfei",
+      "code": "ZAF"
+    },
+    {
+      "name": "南极洲",
+      "pinyin": "nanjizhou",
+      "code": "ATA"
+    },
+    {
+      "name": "南乔治亚和南桑德威奇群岛",
+      "pinyin": "nanqiaozhiyahenansangdeweiqiqundao",
+      "code": "SGS"
+    },
+    {
+      "name": "瑙鲁",
+      "pinyin": "naolu",
+      "code": "NRU"
+    },
+    {
+      "name": "尼泊尔",
+      "pinyin": "nipoer",
+      "code": "NPL"
+    },
+    {
+      "name": "尼加拉瓜",
+      "pinyin": "nijialagua",
+      "code": "NIC"
+    },
+    {
+      "name": "尼日尔",
+      "pinyin": "nirier",
+      "code": "NER"
+    },
+    {
+      "name": "尼日利亚",
+      "pinyin": "niriliya",
+      "code": "NGA"
+    },
+    {
+      "name": "纽埃",
+      "pinyin": "niuai",
+      "code": "NIU"
+    },
+    {
+      "name": "挪威",
+      "pinyin": "nuowei",
+      "code": "NOR"
+    },
+    {
+      "name": "诺福克",
+      "pinyin": "nuofuke",
+      "code": "NFK"
+    }
+  ],
+  "P": [
+    {
+      "name": "帕劳群岛",
+      "pinyin": "palaoqundao",
+      "code": "PLW"
+    },
+    {
+      "name": "皮特凯恩",
+      "pinyin": "pitekaien",
+      "code": "PCN"
+    },
+    {
+      "name": "葡萄牙",
+      "pinyin": "putaoya",
+      "code": "PRT"
+    }
+  ],
+  "Q": [
+    {
+      "name": "乔治亚",
+      "pinyin": "qiaozhiya",
+      "code": "GEO"
+    }
+  ],
+  "R": [
+    {
+      "name": "日本",
+      "pinyin": "riben",
+      "code": "JPN"
+    },
+    {
+      "name": "瑞典",
+      "pinyin": "ruidian",
+      "code": "SWE"
+    },
+    {
+      "name": "瑞士",
+      "pinyin": "ruishi",
+      "code": "CHE"
+    }
+  ],
+  "S": [
+    {
+      "name": "萨尔瓦多",
+      "pinyin": "saerwaduo",
+      "code": "SLV"
+    },
+    {
+      "name": "萨摩亚",
+      "pinyin": "samoya",
+      "code": "WSM"
+    },
+    {
+      "name": "塞尔维亚,黑山",
+      "pinyin": "saierweiyaheishan",
+      "code": "SCG"
+    },
+    {
+      "name": "塞拉利昂",
+      "pinyin": "sailaliang",
+      "code": "SLE"
+    },
+    {
+      "name": "塞内加尔",
+      "pinyin": "saineijiaer",
+      "code": "SEN"
+    },
+    {
+      "name": "塞浦路斯",
+      "pinyin": "saipulusi",
+      "code": "CYP"
+    },
+    {
+      "name": "塞舌尔",
+      "pinyin": "saisheer",
+      "code": "SYC"
+    },
+    {
+      "name": "斯里兰卡",
+      "pinyin": "sililanka",
+      "code": "LKA"
+    },
+    {
+      "name": "斯洛伐克",
+      "pinyin": "siluofake",
+      "code": "SVK"
+    },
+    {
+      "name": "斯洛文尼亚",
+      "pinyin": "siluowenniya",
+      "code": "SVN"
+    },
+    {
+      "name": "斯瓦尔巴和扬马廷",
+      "pinyin": "siwaerbaheyangmating",
+      "code": "SJM"
+    },
+    {
+      "name": "斯威士兰",
+      "pinyin": "siweishilan",
+      "code": "SWZ"
+    },
+    {
+      "name": "苏丹",
+      "pinyin": "sudan",
+      "code": "SDN"
+    },
+    {
+      "name": "苏里南",
+      "pinyin": "sulinan",
+      "code": "SUR"
+    },
+    {
+      "name": "所罗门群岛",
+      "pinyin": "suoluomenqundao",
+      "code": "SLB"
+    },
+    {
+      "name": "索马里",
+      "pinyin": "suomali",
+      "code": "SOM"
+    }
+  ],
+  "SH": [
+    {
+      "name": "沙特阿拉伯",
+      "pinyin": "shatealabo",
+      "code": "SAU"
+    },
+    {
+      "name": "圣诞岛",
+      "pinyin": "shengdandao",
+      "code": "CXR"
+    },
+    {
+      "name": "圣多美和普林西比",
+      "pinyin": "shengduomeihepulinxibi",
+      "code": "STP"
+    },
+    {
+      "name": "圣赫勒拿",
+      "pinyin": "shenghelena",
+      "code": "SHN"
+    },
+    {
+      "name": "圣基茨和尼维斯",
+      "pinyin": "shengjiciheniweisi",
+      "code": "KNA"
+    },
+    {
+      "name": "圣卢西亚",
+      "pinyin": "shengluxiya",
+      "code": "LCA"
+    },
+    {
+      "name": "圣马力诺",
+      "pinyin": "shengmalinuo",
+      "code": "SMR"
+    },
+    {
+      "name": "圣皮埃尔和米克隆群岛",
+      "pinyin": "shengpiaierhemikelongqundao",
+      "code": "SPM"
+    },
+    {
+      "name": "圣文森特和格林纳丁斯",
+      "pinyin": "shengwensentehegelinnadingsi",
+      "code": "VCT"
+    }
+  ],
+  "T": [
+    {
+      "name": "塔吉克斯坦",
+      "pinyin": "tajikesitan",
+      "code": "TJK"
+    },
+    {
+      "name": "泰国",
+      "pinyin": "taiguo",
+      "code": "THA"
+    },
+    {
+      "name": "坦桑尼亚",
+      "pinyin": "tansangniya",
+      "code": "TZA"
+    },
+    {
+      "name": "汤加",
+      "pinyin": "tangjia",
+      "code": "TON"
+    },
+    {
+      "name": "特克斯和凯克特斯群岛",
+      "pinyin": "tekesihekaiketesiqundao",
+      "code": "TCA"
+    },
+    {
+      "name": "特里斯坦达昆哈",
+      "pinyin": "telisitandakunha",
+      "code": "TAA"
+    },
+    {
+      "name": "特立尼达和多巴哥",
+      "pinyin": "telinidaheduobage",
+      "code": "TTO"
+    },
+    {
+      "name": "突尼斯",
+      "pinyin": "tunisi",
+      "code": "TUN"
+    },
+    {
+      "name": "图瓦卢",
+      "pinyin": "tuwalu",
+      "code": "TUV"
+    },
+    {
+      "name": "土耳其",
+      "pinyin": "tuerqi",
+      "code": "TUR"
+    },
+    {
+      "name": "土库曼斯坦",
+      "pinyin": "tukumansitan",
+      "code": "TKM"
+    },
+    {
+      "name": "托克劳",
+      "pinyin": "tuokelao",
+      "code": "TKL"
+    }
+  ],
+  "W": [
+    {
+      "name": "瓦利斯和福图纳",
+      "pinyin": "walisihefutuna",
+      "code": "WLF"
+    },
+    {
+      "name": "瓦努阿图",
+      "pinyin": "wanuatu",
+      "code": "VUT"
+    },
+    {
+      "name": "危地马拉",
+      "pinyin": "weidimala",
+      "code": "GTM"
+    },
+    {
+      "name": "维尔京群岛，美属",
+      "pinyin": "weierjingqundaomeishu",
+      "code": "VIR"
+    },
+    {
+      "name": "维尔京群岛，英属",
+      "pinyin": "weierjingqundaoyingshu",
+      "code": "VGB"
+    },
+    {
+      "name": "委内瑞拉",
+      "pinyin": "weineiruila",
+      "code": "VEN"
+    },
+    {
+      "name": "文莱",
+      "pinyin": "wenlai",
+      "code": "BRN"
+    },
+    {
+      "name": "乌干达",
+      "pinyin": "wuganda",
+      "code": "UGA"
+    },
+    {
+      "name": "乌克兰",
+      "pinyin": "wukelan",
+      "code": "UKR"
+    },
+    {
+      "name": "乌拉圭",
+      "pinyin": "wulagui",
+      "code": "URY"
+    },
+    {
+      "name": "乌兹别克斯坦",
+      "pinyin": "wuzibiekesitan",
+      "code": "UZB"
+    }
+  ],
+  "X": [
+    {
+      "name": "西班牙",
+      "pinyin": "xibanya",
+      "code": "ESP"
+    },
+    {
+      "name": "希腊",
+      "pinyin": "xila",
+      "code": "GRC"
+    },
+    {
+      "name": "新加坡",
+      "pinyin": "xinjiapo",
+      "code": "SGP"
+    },
+    {
+      "name": "新喀里多尼亚",
+      "pinyin": "xinkaliduoniya",
+      "code": "NCL"
+    },
+    {
+      "name": "新西兰",
+      "pinyin": "xinxilan",
+      "code": "NZL"
+    },
+    {
+      "name": "匈牙利",
+      "pinyin": "xiongyali",
+      "code": "HUN"
+    },
+    {
+      "name": "叙利亚",
+      "pinyin": "xuliya",
+      "code": "SYR"
+    }
+  ],
+  "Y": [
+    {
+      "name": "牙买加",
+      "pinyin": "yamaijia",
+      "code": "JAM"
+    },
+    {
+      "name": "亚美尼亚",
+      "pinyin": "yameiniya",
+      "code": "ARM"
+    },
+    {
+      "name": "也门",
+      "pinyin": "yemen",
+      "code": "YEM"
+    },
+    {
+      "name": "伊拉克",
+      "pinyin": "yilake",
+      "code": "IRQ"
+    },
+    {
+      "name": "伊朗",
+      "pinyin": "yilang",
+      "code": "IRN"
+    },
+    {
+      "name": "以色列",
+      "pinyin": "yiselie",
+      "code": "ISR"
+    },
+    {
+      "name": "意大利",
+      "pinyin": "yidali",
+      "code": "ITA"
+    },
+    {
+      "name": "印度",
+      "pinyin": "yindu",
+      "code": "IND"
+    },
+    {
+      "name": "印度尼西亚",
+      "pinyin": "yindunixiya",
+      "code": "IDN"
+    },
+    {
+      "name": "英国",
+      "pinyin": "yingguo",
+      "code": "GBR"
+    },
+    {
+      "name": "英属印度洋领地",
+      "pinyin": "yingshuyinduyanglingdi",
+      "code": "IOT"
+    },
+    {
+      "name": "约旦",
+      "pinyin": "yuedan",
+      "code": "JOR"
+    },
+    {
+      "name": "越南",
+      "pinyin": "yuenan",
+      "code": "VNM"
+    }
+  ],
+  "Z": [
+    {
+      "name": "赞比亚",
+      "pinyin": "zanbiya",
+      "code": "ZMB"
+    },
+    {
+      "name": "泽西岛",
+      "pinyin": "zexidao",
+      "code": "JEY"
+    }
+  ],
+  "ZH": [
+    {
+      "name": "中国",
+      "pinyin": "zhongguo",
+      "code": "CHN"
+    },
+    {
+      "name": "乍得",
+      "pinyin": "zhade",
+      "code": "TCD"
+    },
+    {
+      "name": "直布罗陀",
+      "pinyin": "zhibuluotuo",
+      "code": "GIB"
+    },
+    {
+      "name": "智利",
+      "pinyin": "zhili",
+      "code": "CHL"
+    },
+    {
+      "name": "中非共和国",
+      "pinyin": "zhongfeigongheguo",
+      "code": "CAF"
+    }
+  ]
+}
