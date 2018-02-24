@@ -1,0 +1,117 @@
+<html>
+<head>
+    <title>地图描点</title>
+    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBzE9xAESye6Kde-3hT-6B90nfwUkcS8Yw&sensor=false"></script>
+    <script src="//code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <script>
+        var x = new google.maps.LatLng(31.24109022,121.4871979);
+        var map;
+        function initialize() {
+            var mapProp = {
+                center: x,
+                zoom: 15,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            $('#googleMap').height(screen.availHeight-100).width(screen.availWidth-380);
+            map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+            render();
+        }
+        let line,start,end;
+        function render() {
+            let lastPoint;
+            let totalDistance = 0;
+            let locations = $('#locations').val().trim().replace(/,/g, ' ');
+            let rows = locations.split(/\n/);
+            let points = [];
+            let total = 0;
+            for (let i in rows) {
+                let row = rows[i].split(/\s+/);
+                if (row.length !== 2) {
+                    continue;
+                }
+                let point = new google.maps.LatLng(row[0], row[1]);
+                if(lastPoint!==undefined){
+                    totalDistance += getDistanceByPoint(lastPoint[0],lastPoint[1],row[0],row[1]);
+                }else{
+                    map.setCenter(point);
+                    if(start!==undefined){
+                        start.setMap(null);
+                    }
+                    start=new google.maps.Marker({
+                        position:point
+                    });
+                    start.setMap(map);
+                }
+                lastPoint = row;
+                points[total] = point;
+                total++;
+            }
+
+            if(end!==undefined){
+                end.setMap(null);
+            }
+
+            end=new google.maps.Marker({
+                position:new google.maps.LatLng(lastPoint[0], lastPoint[1])
+            });
+
+            end.setMap(map);
+
+            if (line !== undefined) {
+                line.setMap(null);
+            }
+            line = new google.maps.Polyline({
+                path: points,
+                strokeColor: "#ff0000",
+                strokeOpacity: 0.9,
+                strokeWeight: 2
+            });
+            line.setMap(map);
+            $('#result').html(parseFloat(totalDistance).toFixed(2));
+        }
+
+        function getDistanceByPoint(lat1,lng1,lat2,lng2) {
+            let radLat1 = getRadian(lat1);
+            let radLat2 = getRadian(lat2);
+            let a = radLat1 - radLat2;// 两点纬度差
+            let b = getRadian(lng1) - getRadian(lng2);// 两点的经度差
+            let s = 2 * Math.asin(Math.sqrt(Math.pow(Math.sin(a / 2), 2) + Math.cos(radLat1) * Math.cos(radLat2)
+                * Math.pow(Math.sin(b / 2), 2)));
+            s = s * 6378.137;
+            return s * 1000;
+        }
+
+        /**
+         * 角度弧度计算公式 rad:(). <br/>
+         * 360度=2π π=Math.PI x度 = x*π/360 弧度
+         *
+         * @author chiwei
+         * @param degree
+         * @return
+         * @since JDK 1.6
+         */
+        function  getRadian(degree) {
+            return degree * Math.PI / 180.0;
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</head>
+<body>
+<div id="main" style="width: 320px;float: left;">
+    <div>
+        总距离是：<label id="result" style="color: red">0</label>m
+    </div>
+    <div>经纬度以半角逗号或空白分割</div>
+    <div>
+        <button type="submit" onclick="render()">绘制</button>
+    </div>
+    <div id="input">
+        <textarea id="locations" style="height: 90%;width: 100%;">31.9346498	118.7869573
+31.9346466	118.7569573</textarea>
+    </div>
+</div>
+<div id="googleMap" style="float: left;margin-left:20px;"></div>
+</body>
+</html>
